@@ -1,17 +1,32 @@
 <h1 align="center">Registration Page</h1>
-<img src="assets/layout.png" alt="Resgistration Page Responsive">
 
-## Projeto 💻
+<div align="center">
 
-Página de cadastro produzida durante o video da **[Giovanna](https://github.com/giovannamoeller)** no canal **[Girl Coding](https://www.youtube.com/channel/UCp9iM676aUBzT03JiGExFEw)**
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-## Tecnologias 🛠️
+</div>
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+---
+
+## 💻 About
+
+Registration page produced during the video for ** [Giovanna] (https://github.com/giovannamoeller) ** on the channel ** [Girl Coding] (https://www.youtube.com/channel/UCp9iM676aUBzT03JiGExFEw) * *
+
+## 🚀 Starting
+
+To start the project, just open the file ```index.html``` in your preferred browser.
+
+## 🛠️ Built Using <a name = "built_using"></a>
 
 - HTML
 - CSS
 - Sass
----
 
-<p align="center">Made by Lucas Araújo 🥳</p>
+## 🥳 Authors 
+
+- Made by [@lucasarlim](https://github.com/lucasarlim)
+
+## 📸 Screenshots
+
+<img src="assets/layout.png" alt="Resgistration Page Responsive">
+
